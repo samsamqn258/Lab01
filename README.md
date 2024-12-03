@@ -36,4 +36,4 @@ Module này cung cấp các chức năng quản lý sản phẩm, bao gồm:
 
 ### Thêm Sản Phẩm
 ```http
-POST /api/products
+POST http://localhost:3000/v2/api/products
